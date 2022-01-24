@@ -7,3 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 Trying to practice git by changing and uploading this. 
+
+Ok now I am going to change this and it will show up on github.
+
+I hope
