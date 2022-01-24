@@ -47,6 +47,7 @@ class _MyAppState extends State<MyApp> {
     },
   ];
   var _questionIndex = 0;
+  var _thisDoesntWork = 0;
   var _totalScore = 0;
 
   void _resetQuiz() {
