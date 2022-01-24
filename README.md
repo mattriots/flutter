@@ -10,4 +10,5 @@ Trying to practice git by changing and uploading this.
 
 Ok now I am going to change this and it will show up on github.
 
-I hope
+This seems to be working now. I had to delete another branch.
+Reclone to a new folder.
